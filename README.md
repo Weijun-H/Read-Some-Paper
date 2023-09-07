@@ -9,6 +9,7 @@ For each paper, I will give a abstract and mind map. I will also give a link to 
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - Operating systems: three easy pieces
 - Readings in Database Systems, 5th Edition
+- [How Query Engines Work](https://howqueryengineswork.com/)
 
 ## Referenced Reading Lists
 

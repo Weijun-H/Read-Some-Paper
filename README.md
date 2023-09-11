@@ -7,9 +7,10 @@ For each paper, I will give a abstract and mind map. I will also give a link to 
 ## Booklist
 
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
-- Operating systems: three easy pieces
-- Readings in Database Systems, 5th Edition
+- [Operating systems: three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Readings in Database Systems](http://www.redbook.io/)
 - [How Query Engines Work](https://howqueryengineswork.com/)
+- [Data Structures for Data-Intensive Applications: Tradeoffs and Design Guidelines](https://www.nowpublishers.com/article/Details/DBS-059)
 
 ## Referenced Reading Lists
 

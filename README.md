@@ -20,6 +20,7 @@ For each paper, I will give a abstract and mind map. I will also give a link to 
 ## Seminar
 
 - The Dutch seminar on data systems design [link](https://dsdsd.da.cwi.nl/)
-- ML ⇄ DB [link](https://db.cs.cmu.edu/seminar2023/)
+- ML ⇄ DB [link](https://db.cs.cmu.edu/seminar2023/)  
 - Database Research at HPI [link](https://www.tele-task.de/series/1367/)
 - DisSys Reading Group [link](http://charap.co/category/reading-group/)
+- NYC System Reading Group [link](https://notes.ekzhang.com/events/nysrg)
